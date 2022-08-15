@@ -7,10 +7,6 @@
 
 - ⚡ Fun fact **QBASIC was my first programing language.**
 
-# 💫 About Me:
-Hi! I'm T Vijay Kumar,<br>I'm currently learning ReactJS.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijay-cpp) 
 
