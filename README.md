@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm T Vijay Kumar</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay-cpp&label=Profile%20views&color=0e75b6&style=flat" alt="vijay-cpp" /> </p>
-
 - 🌱 I’m currently learning **ReactJS**
 
 - ⚡ Fun fact **QBASIC was my first programing language.**
@@ -19,6 +17,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=Vijay-CPP&icon=5&color=0)](https://visitcount.itsvg.in)
