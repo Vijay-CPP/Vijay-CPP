@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- ⚡ Fun fact **QBASIC was my first programing language.** 
+- ⚡ Fun fact **QBASIC was my first programing language. Ever heard of it?** 
 
 <br/><br/>
 
