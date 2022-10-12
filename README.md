@@ -5,6 +5,8 @@
 
 - ⚡ Fun fact **QBASIC was my first programing language. Ever heard of it?** 
 
+- ⚡ Solved 350+ problems on LeetCode & GFG Practice** 
+
 <br/><br/>
 
 <div align="center">
