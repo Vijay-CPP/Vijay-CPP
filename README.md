@@ -1,7 +1,7 @@
 
 # 💫 About Me
 - 👋 Hello, I'm Vijay
-- 🔭 I’m currently working on React.js & Firebase
+- 🔭 I’m currently working on GraphQL, React.js & Firebase
 - 🌱 I’m currently learning Redux & Redux ToolKit
 - 💬 Ask me about data structures and algorithms
 - ⚡ Fun fact - BASIC was my first programming language
